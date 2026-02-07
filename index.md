@@ -6,5 +6,7 @@ I’m a graduate student at Columbia University pursuing a Master’s in Interna
 
 ## Contact Information
 Phone: (512)-839-3339
+
 Email: sophiacain11@gmail.com
+
 Linkedin: [www.linkedin.com/in/sophia-cain-8158ab230](www.linkedin.com/in/sophia-cain-8158ab230)
