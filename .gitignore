@@ -12,3 +12,5 @@ myenv/
 
 #csvs
 *.csv
+
+lecture_16_example.ipynb
