@@ -5,6 +5,7 @@ _build/
 # make sure Labs aren't included
 Lab*.ipynb
 lab*.ipynb
+lecture*.ipynb
 
 # virtual environments
 .venv/
@@ -12,5 +13,3 @@ myenv/
 
 #csvs
 *.csv
-
-lecture_16_example.ipynb
