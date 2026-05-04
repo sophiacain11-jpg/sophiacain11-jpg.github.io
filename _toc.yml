@@ -1,7 +1,11 @@
 format: jb-book
 root: index
-chapters:
-  - file: lecture_16_example
-  - file: Project_1
-  - file: Project2
-  - file: Project3
+parts:
+  - caption: Computing In Context, Fall 2025
+    chapters:
+      - file: lecture_16_example
+      - file: Project_1
+      - file: Project2
+      - file: Project3
+  - caption: Advanced Computing for Policy, Spring 2026
+    - file: adv_com_final_writeup.md
