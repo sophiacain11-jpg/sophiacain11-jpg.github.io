@@ -8,4 +8,5 @@ parts:
       - file: Project2
       - file: Project3
   - caption: Advanced Computing for Policy, Spring 2026
+    chapters:
       - file: adv_com_final_writeup.md
