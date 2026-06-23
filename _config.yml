@@ -17,6 +17,9 @@ execute:
 
 sphinx:
   config:
+    html_theme: pydata_sphinx_theme
+    html_theme_options:
+      navigation_with_keys: true
     # https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
     myst_heading_anchors: 4
     # https://jupyterbook.org/en/stable/interactive/interactive.html#plotly
