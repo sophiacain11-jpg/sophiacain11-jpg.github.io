@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 parts:
-  - caption: Computing In Context, Fall 2025
+  - caption: "**Computing In Context, Fall 2025**"
     chapters:
       - file: Project_1
         title: "Statistical Analysis: NYC Mortality Trends"
@@ -9,7 +9,7 @@ parts:
         title: "Time-Series Visualization: Labor Force & Inflation"
       - file: Project3
         title: "Big Data Analysis: NYC Demographics & 911 Calls"
-  - caption: Advanced Computing for Policy, Spring 2026
+  - caption: "**Advanced Computing for Policy, Spring 2026**"
     chapters:
       - file: adv_com_final_writeup.md
         title: "Full-Stack Dashboard: NYC Unemployment & Housing Stability"
