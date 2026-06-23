@@ -17,13 +17,15 @@ execute:
 
 sphinx:
   config:
-    html_theme: pydata_sphinx_theme
+    html_theme: furo
     html_theme_options:
-      navigation_with_keys: true
-      default_mode: light
-    html_static_path: ["_static"]
-    html_css_files:
-      - custom.css
+      light_css_variables:
+        color-brand-primary: "#2c5282"
+        color-brand-content: "#2c5282"
+        color-background-primary: "#ffffff"
+        color-background-secondary: "#f7f8fa"
+        color-foreground-primary: "#1a202c"
+        color-foreground-secondary: "#4a5568"
     # https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
     myst_heading_anchors: 4
     # https://jupyterbook.org/en/stable/interactive/interactive.html#plotly
