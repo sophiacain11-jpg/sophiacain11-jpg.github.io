@@ -1,11 +1,22 @@
-/* Code cell input border (notebook cells) */
+/* Code cell input border and fill (notebook cells) */
 .cell_input {
   border-left-color: #2563eb !important;
+  background-color: #eef3ff !important;
 }
 
-/* Code block background (furo theme variable) */
+.cell_input .highlight,
+.cell_input pre {
+  background-color: #eef3ff !important;
+}
+
+/* Code block background (furo theme variable + explicit override) */
 :root {
   --color-code-background: #eef3ff;
+}
+
+div.highlight,
+.highlight pre {
+  background-color: #eef3ff !important;
 }
 
 /* Inline code */
