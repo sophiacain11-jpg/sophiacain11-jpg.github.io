@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 parts:
-  - caption: "**Computing In Context, Fall 2025**""
+  - caption: "**Computing In Context, Fall 2025**"
     chapters:
       - file: Project_1
         title: "Statistical Analysis: NYC Mortality Trends"
