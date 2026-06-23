@@ -19,6 +19,7 @@ sphinx:
   config:
     html_theme: furo
     html_theme_options:
+      pygments_light_style: vs
       light_css_variables:
         color-brand-primary: "#1e3a5f"
         color-brand-content: "#2563eb"
