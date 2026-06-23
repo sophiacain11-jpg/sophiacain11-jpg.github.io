@@ -1,0 +1,15 @@
+/* Code cell input border (notebook cells) */
+.cell_input {
+  border-left-color: #2563eb !important;
+}
+
+/* Code block background (furo theme variable) */
+:root {
+  --color-code-background: #eef3ff;
+}
+
+/* Inline code */
+code.literal {
+  background-color: #eef3ff;
+  color: #1e3a5f;
+}
