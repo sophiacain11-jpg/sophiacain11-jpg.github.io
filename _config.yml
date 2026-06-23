@@ -20,12 +20,14 @@ sphinx:
     html_theme: furo
     html_theme_options:
       light_css_variables:
-        color-brand-primary: "#2c5282"
-        color-brand-content: "#2c5282"
-        color-background-primary: "#ffffff"
-        color-background-secondary: "#f7f8fa"
-        color-foreground-primary: "#1a202c"
+        color-brand-primary: "#1e3a5f"
+        color-brand-content: "#2563eb"
+        color-background-primary: "#f8fafc"
+        color-background-secondary: "#eef2f7"
+        color-foreground-primary: "#0f172a"
         color-foreground-secondary: "#4a5568"
+        color-highlight-on-target: "#dbeafe"
+        color-admonition-background: "#eff6ff"
     # https://myst-parser.readthedocs.io/en/latest/syntax/cross-referencing.html#implicit-targets
     myst_heading_anchors: 4
     # https://jupyterbook.org/en/stable/interactive/interactive.html#plotly
