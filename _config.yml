@@ -1,12 +1,6 @@
 # https://jupyterbook.org/customize/config.html
 
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-minimal_mistakes_skin: "dark"   # try: dark, neon, contrast, dirt, plum, sunrise
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-feed
 
 title: "Sophia's Portfolio"
 author: SophiaCain
